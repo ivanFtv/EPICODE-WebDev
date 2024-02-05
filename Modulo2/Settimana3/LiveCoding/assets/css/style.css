@@ -1,0 +1,43 @@
+.bg-prime {
+    background-color: #1E242E;
+}
+
+.bg-prime-light {
+    background-color: #69A7DF;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+    opacity: 1;
+}
+
+.text-prime {
+    color: #69A7DF;
+}
+
+.text-badge {
+    color: #1E242E;
+}
+
+.link-custom {
+    font-size: 0.5em;
+}
+
+.carousel-img-padding {
+    padding: 0 0.2em;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top: 140%;
+    left: -40px;
+}
+
+.link-no-decoration {
+    text-decoration: none;
+}
